@@ -1,0 +1,5 @@
+<view class="container">
+    <picker mode="date" value="{{birthday}}" start="1918-1-01" end="2018-1-01" bindchange="bindDateChange">
+        {{age}}
+    </picker>
+</view>

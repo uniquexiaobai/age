@@ -1,0 +1,5 @@
+picker {
+    margin-bottom: 200rpx;
+    color: #fff;
+    font-size: 80rpx;
+}

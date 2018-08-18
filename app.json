@@ -1,0 +1,12 @@
+{
+    "pages": [
+        "pages/index/index"
+    ],
+    "window":{
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#ED653A",
+        "navigationBarTitleText": "Age",
+        "navigationBarTextStyle": "#fff",
+        "backgroundColor": "#000"
+    }
+}
