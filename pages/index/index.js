@@ -3,7 +3,7 @@ let getCurAge, timer;
 
 Page({
     data: {
-        age: 'touch me',
+        age: 'set your birthday',
         birthday: '',
     },
 
